@@ -65,7 +65,7 @@ a:hover{
         height: 100vh;
         display: grid;
         grid-template-columns: minmax(390px, auto);
-        grid-template-rows: 50px 80px 300px 800px 950px 850px 230px 100px;
+        grid-template-rows: 50px 80px 300px 780px 920px 750px 230px 100px;
     }
 }
 
