@@ -60,7 +60,7 @@ a:hover{
     color: #f0d9b5;
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1400px){
     .container{
         height: 100vh;
         display: grid;
